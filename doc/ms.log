@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 NOV 2017 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 NOV 2017 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -669,7 +669,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <9> not available
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 1203.
 
-<compare_Dessart.pdf, id=1080, 433.62pt x 578.16pt>
+<compare_Dessart.pdf, id=1082, 433.62pt x 578.16pt>
 File: compare_Dessart.pdf Graphic file (type pdf)
  <use compare_Dessart.pdf>
 Package pdftex.def Info: compare_Dessart.pdf used on input line 1205.
@@ -684,7 +684,7 @@ w-[]n . oca . eu / supernova / snia /
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 1247.
 
-<compare_Piro.pdf, id=1101, 433.62pt x 578.16pt>
+<compare_Piro.pdf, id=1103, 433.62pt x 578.16pt>
 File: compare_Piro.pdf Graphic file (type pdf)
  <use compare_Piro.pdf>
 Package pdftex.def Info: compare_Piro.pdf used on input line 1249.
@@ -717,7 +717,7 @@ Overfull \hbox (9.30356pt too wide) in paragraph at lines 1459--1460
 \OT1/cmr/m/n/10 LCOGT, PO:1.2m, PO:1.5m, VLT, Swift, OANSPM:HJT 
  []
 
-<lightcurve2.pdf, id=1354, 794.97pt x 325.215pt>
+<lightcurve2.pdf, id=1360, 794.97pt x 325.215pt>
 File: lightcurve2.pdf Graphic file (type pdf)
  <use lightcurve2.pdf>
 Package pdftex.def Info: lightcurve2.pdf used on input line 1472.
@@ -770,9 +770,9 @@ amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmtt8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/he
 lvetic/uhvr8a.pfb>
-Output written on ms.pdf (18 pages, 1214503 bytes).
+Output written on ms.pdf (18 pages, 1216104 bytes).
 PDF statistics:
- 1608 PDF objects out of 1728 (max. 8388607)
+ 1614 PDF objects out of 1728 (max. 8388607)
  943 compressed objects within 10 object streams
  159 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
